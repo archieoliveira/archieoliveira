@@ -1,5 +1,7 @@
 ## Hello there! I'm Artur, pleased to meet you!
 
+# Technologies I'm using/learning at the moment:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Archie-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Archie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

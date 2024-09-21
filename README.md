@@ -1,6 +1,6 @@
-## Hello there! I'm Artur, pleased to meet you!
+# Hello there! I'm Artur, pleased to meet you!
 
-# Technologies I'm using/learning at the moment:
+## Technologies I'm using/learning at the moment:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Archie-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">

@@ -7,10 +7,10 @@
   <img align="center" alt="Archie-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Archie-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Archie-Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg">
-  <img align="center" alt="Archie-Yaml" height="30" width="40" src="https://https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg">
+  <img align="center" alt="Archie-Yaml" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg">
   <img align="center" alt="Archie-sqlserver" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg">
   <img align="center" alt="Archie-cypress" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg">
-  <img align="center" alt="Archie-sqlserver" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/appium.svg">
+  <img align="center" alt="Archie-appium" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/appium.svg">
 </div>
   
   ##
